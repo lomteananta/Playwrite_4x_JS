@@ -32,6 +32,7 @@ console.log("BigInt from number:", bigFromNum);
 console.log("typeof BigInt:", typeof big); 
 
 console.log("Info relatde to infinity");
+console.log(0.1 + 0.2);
 
 // Infinity
 

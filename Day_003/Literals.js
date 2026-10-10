@@ -33,4 +33,10 @@ let profilePic = null;
 console.log("value of profile Pic is : " + profilePic); // null
 console.log("type of profile Pic is : " + typeof  profilePic); // object
 
-
+console.log("............"); 
+/* 
+let name = "ananta";
+let name = "lomte";
+*/
+console.log(name); // SyntaxError: Identifier 'name' has already been declared
+console.log(0.1 + 0.2);
