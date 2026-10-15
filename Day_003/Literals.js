@@ -39,4 +39,3 @@ let name = "ananta";
 let name = "lomte";
 */
 console.log(name); // SyntaxError: Identifier 'name' has already been declared
-console.log(0.1 + 0.2);
